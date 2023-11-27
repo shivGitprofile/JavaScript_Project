@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#clock{
+    width: 420px;
+    height: 420px;
+    background-color: rgb(44, 43, 43);
+    border-radius: 50%;
+    margin: 120px 0 120px 35%;
+    box-shadow:  9px 9px 15px rgb(74, 74, 71) ;
+}
+#time{
+    /* text-align: center; */
+    font-size:30px;
+    position: absolute;
+    margin: 140px 30px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: bisque;
+}
